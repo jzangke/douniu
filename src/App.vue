@@ -2,6 +2,7 @@
   <div id="app">
     <router-view/>
     <Footer-com/>
+    <p>11111</p>
   </div>
 </template>
 
